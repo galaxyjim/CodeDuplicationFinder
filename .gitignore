@@ -8,3 +8,7 @@ build
 setup.bat
 run.bat
 *.bak
+
+/bin/
+
+.project
