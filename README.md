@@ -13,3 +13,19 @@ run
  gradle tasks 			// to see what can be done
  gradle build   		// to make it
  gradle demo			// to run it with a sample
+
+ 
+ Components:
+ 	logging
+ 		logger.java: interface
+ 			create a new logger, at greated depth
+ 			add a message to a log
+ 			
+ 	matching
+ 		contains parse.
+ 		finds matching parse trees.
+ 		
+ 	parsing
+ 		...
+ 	ui
+ 		...
